@@ -6,6 +6,8 @@ Researchers from The University of Melbourne are able to run Windows 7 instances
 
 2. Have you requested a resource allocation from Nectar? You’ll receive a default allocation with your trial project (beginning with ‘pt-’), but this usually won’t be sufficient. Decide how many cores you require, and how much volume storage. For the latter, allow around 100GB per instance, plus any additional space needed for your software. You can request resources in the ‘Allocations’ menu in the sidebar. If you’re creating a new project, you’ll have to wait until it’s approved and you have a project ID before proceeding to the next step.
 
+![allocations](images/Screen Shot 2016-09-27 at 9.23.43 AM.png)
+
 2. Send a request to support (support@ehelp.edu.au), letting us know you'd like to run a Windows instance, and require the following:
 
 - Access to the Windows 7 install image.
