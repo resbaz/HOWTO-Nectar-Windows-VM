@@ -83,4 +83,6 @@ A) If your instance will only be used for a short time (<30 days), you can simpl
 
 B) Alternatively, setup a VPN connection (https://remote.unimelb.edu.au/staff) between your instance and the University's network so that the license server can be reached. It may be necessary to disconnect your Remote Desktop Session after initiating the VPN connection (or use the web-based console) and then reconnect after a few minutes for this to succeed.
 
+C) Finally, licenses are available from the university for use, including for server editions, but since we need to restrict access to university staff and students, you'll have to get in touch
 
+C) We can provide settings to allow you to connect your instance to the university license server directly, but since we need to restrict access to staff and students, we can't share them here, and you'll need to request these setttings from us directly (email support@ehelp.edu.au).
